@@ -1,0 +1,1 @@
+# cpp-asignment-10-pointer
